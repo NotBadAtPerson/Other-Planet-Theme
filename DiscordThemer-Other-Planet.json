@@ -1,0 +1,19 @@
+{
+    "manifest": {
+        "name": "Other Planet",
+        "author": "Memefier",
+        "version": "1.0"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/921105099999285261\/922416810203172874\/Screenshot_20211220_121450.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": -14208143,
+        "background_secondary": 5666694,
+        "background": 137130384
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
